@@ -1,4 +1,4 @@
-# <h1 align="center">Hello, I am Maxwell!</h1>
+# <h1 align="center">Hi, I'm Max</h1>
 
 <img src="" alt="picture of maxwell benton" width="100%">
 
@@ -8,7 +8,7 @@
 
 ### Current Work
 
-I am currently working as a senior front-end software engineer / service architect at Mastercard, where I design and engineer the web applications, SDKs, and front-end microservices that make up Mastercard’s Click to Pay / Unified Checkout Solutions products.
+I currently work as a senior front-end software engineer / service architect at Mastercard, where I design and engineer the web applications, SDKs, and front-end microservices that make up Mastercard’s Click to Pay / Unified Checkout Solutions products.
 
 ### My Background
 
