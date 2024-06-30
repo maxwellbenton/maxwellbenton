@@ -20,7 +20,8 @@ For the past few years, I have mainly worked on [Mastercard's Unified Checkout S
 - [Installments at Checkout](https://developer.mastercard.com/unified-checkout-solutions/documentation/use-cases/mastercard-installments-at-checkout/), an embeddable web application for connecting online shoppers to lenders. Currently available at [Shop.com](https://www.shop.com/).
 - [Mastercard's Web Components suite](https://src.mastercard.com/srci/integration/components/index.html?path=/story/components-src-otp-input--src-otp-input) for helping businesses build a checkout experience on their own checkout pages.
 - [Mastercard's Checkout Solution](https://developer.mastercard.com/mastercard-checkout-solutions/documentation/) for payment service providers interested in using [Secure Remote Commerce](https://www.emvco.com/emv-technologies/secure-remote-commerce/), a set of API and SDK specifications for common integration patterns for Mastercard, Visa, Amex, and Discover card services.
-- [Flatiron School's Open-Source Software Engineering Curriculum](https://github.com/learn-co-curriculum)
+
+Before Mastercard, I worked on [Flatiron School's Open-Source Software Engineering Curriculum](https://github.com/learn-co-curriculum), used in the school's [software engineering immersive and online bootcamps](https://flatironschool.com/welcome-to-flatiron-school/), [Amazon's Career Choice Program](https://flatironschool.com/blog/amazon-career-choice-program-2021-results/), and [re:coded](https://www.re-coded.com/).
 
 <h3>Skills and Technologies</h3>
 
