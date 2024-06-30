@@ -14,9 +14,12 @@ Originally, I studied English literature in college. After a decade in retail ma
 
 <h3>Things I've Worked On</h3>
 
-- The launch and maintenance of [Mastercard's Unified Checkout Solution](https://developer.mastercard.com/unified-checkout-solutions/documentation/) for online retailers and payment service providers and [Mastercard's Installments at Checkout](https://developer.mastercard.com/unified-checkout-solutions/documentation/use-cases/mastercard-installments-at-checkout/)
-- [Mastercard's UCS Web Components suite](https://src.mastercard.com/srci/integration/components/index.html?path=/story/components-src-otp-input--src-otp-input)
-- [Mastercard's Checkout Solution](https://developer.mastercard.com/mastercard-checkout-solutions/documentation/) for [Secure Remote Commerce](https://www.emvco.com/emv-technologies/secure-remote-commerce/)
+For the past few years, I have mainly worked on [Mastercard's Unified Checkout Solution](https://developer.mastercard.com/unified-checkout-solutions/documentation/) for online retailers and payment service providers. As part of this work, I've helped launch and maintain core components of UCS, including:
+
+- [Click to Pay](https://developer.mastercard.com/unified-checkout-solutions/documentation/use-cases/click-to-pay/), a JavaScript SDK that provides a 'card on file' checkout experience. This product used by businesses in 35 countries and provides a secure, streamlined checkout experience for millions of transactions a year. Check it out now [Bass Pro Shops online store](https://www.basspro.com/shop/en#)!
+- [Installments at Checkout](https://developer.mastercard.com/unified-checkout-solutions/documentation/use-cases/mastercard-installments-at-checkout/), an embeddable web application for connecting online shoppers to lenders. Currently available at [Shop.com](https://www.shop.com/).
+- [Mastercard's Web Components suite](https://src.mastercard.com/srci/integration/components/index.html?path=/story/components-src-otp-input--src-otp-input) for helping businesses build a checkout experience on their own checkout pages.
+- [Mastercard's Checkout Solution](https://developer.mastercard.com/mastercard-checkout-solutions/documentation/) for payment service providers interested in using [Secure Remote Commerce](https://www.emvco.com/emv-technologies/secure-remote-commerce/), a set of API and SDK specifications for common integration patterns for Mastercard, Visa, Amex, and Discover card services.
 - [Flatiron School's Open-Source Software Engineering Curriculum](https://github.com/learn-co-curriculum)
 
 <h3>Skills and Technologies</h3>
