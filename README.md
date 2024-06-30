@@ -4,9 +4,6 @@
 
 <h2>About Me</h2>
 
-This is where I live:
-<img src="https://github.com/maxwellbenton/hosted-files/blob/f401e8324131190c9dda71a60a894f25ba20e416/vermont.png" alt="a picture of where I live" width="100%">
-
 <h3>Current Role</h3>
 
 I'm a senior front-end software engineer and service architect at Mastercard. My work focuses on designing and engineering web applications, SDKs, and front-end microservices for Mastercard’s Click to Pay / Unified Checkout Solutions products.
@@ -38,3 +35,6 @@ When I'm not coding, I'm trying to build a perennial garden. This year, I’ve p
 Feel free to reach out to connect or discuss potential opportunities!
 
 ***
+
+<img src="https://github.com/maxwellbenton/hosted-files/blob/f401e8324131190c9dda71a60a894f25ba20e416/vermont.png" alt="a picture of where I live" width="100%">
+
