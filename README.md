@@ -1,13 +1,11 @@
 <h1>Hi, I'm Max</h1>
 
-<figure align="center">
-  <img src="https://github.com/maxwellbenton/hosted-files/blob/f401e8324131190c9dda71a60a894f25ba20e416/vermont.png" alt="a picture of where I live" width="100%">
-  <figcaption>This is where I live</figcaption>
-</figure> 
-
 <p>I’m a front-end software engineer, dad, and amateur gardener. I enjoy coding, spending time with my family, and cultivating my garden.</p>
 
 <h2>About Me</h2>
+
+This is where I live:
+<img src="https://github.com/maxwellbenton/hosted-files/blob/f401e8324131190c9dda71a60a894f25ba20e416/vermont.png" alt="a picture of where I live" width="100%">
 
 <h3>Current Role</h3>
 
