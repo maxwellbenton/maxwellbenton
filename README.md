@@ -6,11 +6,11 @@
 
 <h3>Current Role</h3>
 
-I'm a senior front-end software engineer and service architect at Mastercard. My work focuses on designing and engineering web applications, SDKs, and front-end microservices for Mastercard’s Click to Pay / Unified Checkout Solutions products.
+I'm a technical lead and senior front-end software engineer at Mastercard. My work focuses on designing and leading the engineering of web applications and SDKs for Mastercard’s Click to Pay / Unified Checkout Solutions products.
 
 <h3>Background</h3>
 
-Originally, I studied English literature in college. After a decade in retail management, I decided to switch careers. I enrolled in Flatiron School's software engineering bootcamp and upon graduating, joined the school as an instructor and then curriculum writer. Over time, I advanced to senior curriculum designer, software engineer, and eventually, curriculum manager before transitioning to a senior software engineering role at Mastercard.
+Originally, I studied English literature in college. After a decade in retail management, I decided to switch careers. I enrolled in Flatiron School's software engineering bootcamp and upon graduating, joined the school as an instructor and then curriculum writer. Over time, I advanced to senior curriculum designer, software engineer, and eventually, curriculum manager before I joined Mastercard.
 
 <h3>Things I've Worked On</h3>
 
@@ -32,7 +32,21 @@ Before Mastercard, I worked on [Flatiron School's Open-Source Software Engineeri
 
 <h3>Personal Interests</h3>
 
-When I'm not coding, I'm trying to build a perennial garden. This year, I’ve planted sunchokes, blueberries, raspberries, strawberries, forsythia, comfrey, and lungwort.
+When I'm not coding, I'm trying to build a perennial garden. So far, I’ve planted: 
+
+- apple trees
+- pear trees
+- plum trees
+- sunchokes
+- blueberries
+- black raspberries
+- yellow raspberries
+- strawberries
+- gooseberries
+- currants
+- forsythia
+- comfrey
+- lungwort
 
 *** 
 
